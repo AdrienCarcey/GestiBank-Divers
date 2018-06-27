@@ -11,7 +11,6 @@ Commandes de Git (dans le terminal) :
 	- git pull : màj de votre dépôt local à partir du dépôt sur github
 	- git push : màj du dépôt sur github à partir de votre dépôt local
 
-
 Lors d'un commit :
 	- un editeur de texte s'ouvre
 	- indiquer le nature du commit (nature de l'évolution)
